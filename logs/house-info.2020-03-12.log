@@ -1,0 +1,266 @@
+2020-03-12 10:38:32.548 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 14284 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 10:38:32.550 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 10:38:33.335 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 10:38:33.341 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 10:38:33.341 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 10:38:33.342 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 10:38:33.399 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 10:38:33.399 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 825 ms
+2020-03-12 10:38:33.520 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 10:38:33.826 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 10:38:34.000 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 10:38:34.014 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 10:38:34.016 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.707 seconds (JVM running for 2.728)
+2020-03-12 10:39:23.256 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 10:39:23.256 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 10:39:23.307 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 51 ms
+2020-03-12 10:41:11.301 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 9756 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 10:41:11.303 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 10:41:12.054 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 10:41:12.059 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 10:41:12.059 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 10:41:12.060 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 10:41:12.112 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 10:41:12.112 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 781 ms
+2020-03-12 10:41:12.234 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 10:41:12.523 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 10:41:12.689 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 10:41:12.703 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 10:41:12.705 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.654 seconds (JVM running for 2.282)
+2020-03-12 10:41:22.306 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 10:41:22.306 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 10:41:22.311 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 5 ms
+2020-03-12 10:49:16.276 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 9808 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 10:49:16.279 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 10:49:17.085 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 10:49:17.099 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 10:49:17.100 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 10:49:17.100 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 10:49:17.152 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 10:49:17.152 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 841 ms
+2020-03-12 10:49:17.277 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 10:49:17.574 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 10:49:17.738 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 10:49:17.753 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 10:49:17.755 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.737 seconds (JVM running for 2.739)
+2020-03-12 10:49:27.431 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 10:49:27.431 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 10:49:27.436 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 5 ms
+2020-03-12 15:25:20.403 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 1340 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 15:25:20.416 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 15:25:28.174 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 15:25:28.187 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 15:25:28.188 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 15:25:28.188 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 15:25:28.418 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 15:25:28.418 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 7849 ms
+2020-03-12 15:25:29.505 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 15:25:30.777 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 15:25:31.600 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 15:25:31.654 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 15:25:31.664 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 12.377 seconds (JVM running for 16.409)
+2020-03-12 15:27:35.783 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 15196 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 15:27:35.789 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 15:27:37.014 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 15:27:37.034 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 15:27:37.035 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 15:27:37.036 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 15:27:37.116 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 15:27:37.116 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 1266 ms
+2020-03-12 15:27:37.292 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 15:27:37.683 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 15:27:37.911 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 15:27:37.930 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 15:27:37.932 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 2.61 seconds (JVM running for 3.483)
+2020-03-12 15:27:48.446 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 15:27:48.446 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 15:27:48.451 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 5 ms
+2020-03-12 19:41:55.018 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 12960 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 19:41:55.037 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 19:41:57.435 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 19:41:57.452 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 19:41:57.452 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 19:41:57.452 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 19:41:57.607 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 19:41:57.607 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 2503 ms
+2020-03-12 19:41:58.112 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 19:41:59.032 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 19:41:59.733 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 19:41:59.772 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 19:41:59.775 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 5.553 seconds (JVM running for 7.191)
+2020-03-12 19:46:55.720 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 604 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 19:46:55.722 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 19:46:56.530 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 19:46:56.535 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 19:46:56.536 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 19:46:56.536 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 19:46:56.587 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 19:46:56.587 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 832 ms
+2020-03-12 19:46:56.712 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 19:46:57.018 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 19:46:57.186 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 19:46:57.201 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 19:46:57.203 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.743 seconds (JVM running for 2.36)
+2020-03-12 19:47:08.381 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 19:47:08.382 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 19:47:08.385 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 3 ms
+2020-03-12 19:48:59.673 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 3528 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 19:48:59.676 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 19:49:00.474 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 19:49:00.479 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 19:49:00.479 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 19:49:00.480 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 19:49:00.532 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 19:49:00.532 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 819 ms
+2020-03-12 19:49:00.658 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 19:49:00.975 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 19:49:01.146 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 19:49:01.161 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 19:49:01.163 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.736 seconds (JVM running for 2.367)
+2020-03-12 19:49:10.497 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 19:49:10.497 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 19:49:10.501 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 4 ms
+2020-03-12 20:02:30.196 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 7092 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 20:02:30.199 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 20:02:30.970 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 20:02:30.976 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:02:30.976 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 20:02:30.976 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 20:02:31.027 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 20:02:31.027 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 795 ms
+2020-03-12 20:02:31.154 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 20:02:31.466 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 20:02:31.645 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:02:31.659 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 20:02:31.661 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.769 seconds (JVM running for 2.411)
+2020-03-12 20:02:38.988 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 20:02:38.989 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 20:02:38.994 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 5 ms
+2020-03-12 20:11:38.091 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 15340 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 20:11:38.095 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 20:11:38.915 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 20:11:38.920 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:11:38.921 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 20:11:38.921 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 20:11:38.973 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 20:11:38.974 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 839 ms
+2020-03-12 20:11:39.101 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 20:11:39.408 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 20:11:39.575 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:11:39.590 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 20:11:39.592 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.729 seconds (JVM running for 2.357)
+2020-03-12 20:11:46.230 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 20:11:46.230 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 20:11:46.234 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 4 ms
+2020-03-12 20:20:33.765 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 3824 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 20:20:33.767 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 20:20:34.581 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 20:20:34.587 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:20:34.587 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 20:20:34.587 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 20:20:34.639 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 20:20:34.639 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 837 ms
+2020-03-12 20:20:34.767 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 20:20:35.081 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 20:20:35.256 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:20:35.269 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 20:20:35.271 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.772 seconds (JVM running for 2.395)
+2020-03-12 20:20:48.176 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 20:20:48.176 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 20:20:48.180 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 4 ms
+2020-03-12 20:22:20.105 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 15792 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 20:22:20.108 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 20:22:20.897 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 20:22:20.902 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:22:20.903 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 20:22:20.903 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 20:22:20.955 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 20:22:20.955 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 809 ms
+2020-03-12 20:22:21.081 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 20:22:21.406 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 20:22:21.577 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:22:21.590 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 20:22:21.592 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.744 seconds (JVM running for 2.377)
+2020-03-12 20:22:28.270 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 20:22:28.270 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 20:22:28.275 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 4 ms
+2020-03-12 20:24:32.989 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 12928 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 20:24:32.991 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 20:24:33.789 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 20:24:33.795 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:24:33.795 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 20:24:33.795 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 20:24:33.849 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 20:24:33.849 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 821 ms
+2020-03-12 20:24:33.984 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 20:24:34.291 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 20:24:34.461 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:24:34.475 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 20:24:34.478 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.75 seconds (JVM running for 2.591)
+2020-03-12 20:24:40.109 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 20:24:40.109 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 20:24:40.116 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 7 ms
+2020-03-12 20:29:54.628 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 16332 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 20:29:54.630 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 20:29:55.423 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 20:29:55.429 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:29:55.429 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 20:29:55.429 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 20:29:55.480 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 20:29:55.481 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 823 ms
+2020-03-12 20:29:55.603 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 20:29:55.906 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 20:29:56.068 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:29:56.081 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 20:29:56.083 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.698 seconds (JVM running for 2.349)
+2020-03-12 20:30:07.641 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 20:30:07.641 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 20:30:07.645 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 3 ms
+2020-03-12 20:38:55.204 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 4308 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 20:38:55.207 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 20:38:55.986 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 20:38:55.991 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:38:55.992 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 20:38:55.992 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 20:38:56.047 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 20:38:56.047 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 798 ms
+2020-03-12 20:38:56.179 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 20:38:56.492 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 20:38:56.658 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:38:56.672 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 20:38:56.674 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.771 seconds (JVM running for 2.388)
+2020-03-12 20:39:07.231 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 20:39:07.231 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 20:39:07.236 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 5 ms
+2020-03-12 20:47:23.313 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 1904 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 20:47:23.316 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 20:47:24.121 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 20:47:24.127 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:47:24.128 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 20:47:24.128 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 20:47:24.183 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 20:47:24.184 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 840 ms
+2020-03-12 20:47:24.312 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 20:47:24.620 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 20:47:24.803 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 20:47:24.818 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 20:47:24.820 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.756 seconds (JVM running for 2.404)
+2020-03-12 20:47:29.563 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 20:47:29.563 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 20:47:29.568 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 5 ms
+2020-03-12 21:13:01.345 [main] INFO  [com.lixiang.house.house.HouseApplication:55] - Starting HouseApplication on LAPTOP-HCK9CALE with PID 4656 (started by shuaixiang in D:\开源项目1\house)
+2020-03-12 21:13:01.347 [main] INFO  [com.lixiang.house.house.HouseApplication:651] - No active profile set, falling back to default profiles: default
+2020-03-12 21:13:02.090 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:92] - Tomcat initialized with port(s): 8080 (http)
+2020-03-12 21:13:02.102 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Initializing ProtocolHandler ["http-nio-8080"]
+2020-03-12 21:13:02.102 [main] INFO  [org.apache.catalina.core.StandardService:173] - Starting service [Tomcat]
+2020-03-12 21:13:02.102 [main] INFO  [org.apache.catalina.core.StandardEngine:173] - Starting Servlet engine: [Apache Tomcat/9.0.31]
+2020-03-12 21:13:02.154 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring embedded WebApplicationContext
+2020-03-12 21:13:02.155 [main] INFO  [org.springframework.web.context.ContextLoader:284] - Root WebApplicationContext: initialization completed in 780 ms
+2020-03-12 21:13:02.284 [main] INFO  [com.alibaba.druid.pool.DruidDataSource:1010] - {dataSource-1} inited
+2020-03-12 21:13:02.612 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-12 21:13:02.798 [main] INFO  [org.apache.coyote.http11.Http11NioProtocol:173] - Starting ProtocolHandler ["http-nio-8080"]
+2020-03-12 21:13:02.813 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer:204] - Tomcat started on port(s): 8080 (http) with context path ''
+2020-03-12 21:13:02.816 [main] INFO  [com.lixiang.house.house.HouseApplication:61] - Started HouseApplication in 1.694 seconds (JVM running for 2.338)
+2020-03-12 21:13:09.916 [http-nio-8080-exec-1] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-03-12 21:13:09.917 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:525] - Initializing Servlet 'dispatcherServlet'
+2020-03-12 21:13:09.921 [http-nio-8080-exec-1] INFO  [org.springframework.web.servlet.DispatcherServlet:547] - Completed initialization in 4 ms
